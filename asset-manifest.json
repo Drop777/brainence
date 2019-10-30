@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/brainence/static/css/main.96a2a0f8.chunk.css",
+    "main.js": "/brainence/static/js/main.68f0e54c.chunk.js",
+    "main.js.map": "/brainence/static/js/main.68f0e54c.chunk.js.map",
+    "runtime-main.js": "/brainence/static/js/runtime-main.9a9c492e.js",
+    "runtime-main.js.map": "/brainence/static/js/runtime-main.9a9c492e.js.map",
+    "static/js/2.4b91a361.chunk.js": "/brainence/static/js/2.4b91a361.chunk.js",
+    "static/js/2.4b91a361.chunk.js.map": "/brainence/static/js/2.4b91a361.chunk.js.map",
+    "index.html": "/brainence/index.html",
+    "precache-manifest.a35fa3d7a6afb787d0433a074a60909a.js": "/brainence/precache-manifest.a35fa3d7a6afb787d0433a074a60909a.js",
+    "service-worker.js": "/brainence/service-worker.js",
+    "static/css/main.96a2a0f8.chunk.css.map": "/brainence/static/css/main.96a2a0f8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a9c492e.js",
+    "static/js/2.4b91a361.chunk.js",
+    "static/css/main.96a2a0f8.chunk.css",
+    "static/js/main.68f0e54c.chunk.js"
+  ]
+}
