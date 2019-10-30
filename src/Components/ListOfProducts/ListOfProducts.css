@@ -1,0 +1,57 @@
+.popup-container {
+  width: 250px;
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.pop-up {
+  position: absolute;
+  width: 500px;
+  top: 20%;
+  left: calc(50% - 250px);
+  padding: 15px;
+  background-color: white;
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pop-up-buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.nav-bar {
+  background-color: orange;
+  display: flex;
+  justify-content: space-between;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+}
+
+.link-item:hover {
+  color: orange;
+}
+
+.exit-button {
+  color: white;
+}
+
+.popup-container .action-button,
+.pop-up-buttons .action-button {
+  background-color: orange;
+}
+
+.popup-container .action-button:hover,
+.pop-up-buttons .action-button:hover {
+  background-color: rgb(221, 157, 38);
+}
+
