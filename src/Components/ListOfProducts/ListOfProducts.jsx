@@ -44,7 +44,7 @@ class ListOfProducts extends React.Component {
     const { value } = target;
 
     this.setState({
-      newName: value,
+      newName: value.trimLeft(),
     });
   };
 
@@ -60,7 +60,7 @@ class ListOfProducts extends React.Component {
     const { value } = target;
 
     this.setState({
-      newType: value,
+      newType: value.trimLeft(),
     });
   };
 
