@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de71a8558b9d1ce16d032c5d28a72042",
+    "revision": "7178e94c20cd79b1f743341a04351147",
     "url": "/brainence/index.html"
   },
   {
-    "revision": "6b90fcee3fb3e7557b72",
+    "revision": "2165353abe715e35ba1e",
     "url": "/brainence/static/css/main.96a2a0f8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brainence/static/js/2.4b91a361.chunk.js"
   },
   {
-    "revision": "6b90fcee3fb3e7557b72",
-    "url": "/brainence/static/js/main.68f0e54c.chunk.js"
+    "revision": "2165353abe715e35ba1e",
+    "url": "/brainence/static/js/main.594767c7.chunk.js"
   },
   {
     "revision": "21b7467c373a660dada3",
